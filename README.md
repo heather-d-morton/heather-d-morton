@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @heather-d-morton
 - 👀 I’m interested in data analysis and data visualization
 - 🌱 I’m currently strengthening my skills in SQL, R, and Tableau
+- 🌱 I have experience using HTML, CSS, and JS
 - 💞️ I’m looking to collaborate on interesting projects!
 - 📫 How to reach me: email - @heather.d.morton@outlook.com
 
